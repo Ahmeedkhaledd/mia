@@ -4,18 +4,18 @@ using namespace std;
 
 int main ()
 {
-    int n, target;
-    cout << "enter n: ";
+    int n, target, sum;
+    //cout << "enter n: ";
     cin >> n;
     int array[n];
 
     for(int i = 0; i < n; i++)
     {
-        cout << "enter elements: ";
+       // cout << "enter elements: ";
         cin >> array[i];
     }
     
-    cout << "enter the target: ";
+    //cout << "enter the target: ";
     cin >> target;
 
     for(int i = 0; i < n; i++)
@@ -23,15 +23,19 @@ int main ()
         if(array[i] == target)
         {
             cout << i;
+            sum = 1;
             break;
         }
         else
         {
-            cout << "-1";
-            break;
+            sum = 0;
         }
+        
     }
 
- 
+    if(!sum)
+    {
+        cout << "-1";
+    }
 
 }
