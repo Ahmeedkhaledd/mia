@@ -1,2 +1,0 @@
-hello this is my new file in linux .
-it's just the beginning of learning.
