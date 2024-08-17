@@ -1,0 +1,80 @@
+Removed Pin From Net: NetName=NetJ1_1 Pin=Q1p-1
+Removed Pin From Net: NetName=NetD3_2 Pin=Q1p-3
+Removed Pin From Net: NetName=+12 Pin=Q1p-
+Removed Pin From Net: NetName=NetJ2_2 Pin=Q2p-1
+Removed Pin From Net: NetName=+12 Pin=Q2p-3
+Removed Pin From Net: NetName=NetD4_2 Pin=Q2p-4
+Added Component: Designator=Q1p(FP-N3-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "-100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "-500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "30O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "25ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "190pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "740mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "47153691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "30O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "25ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "45ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "10ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "453.59237mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.19mm"; VariantName = "[No Variations]"
+Added Component: Designator=Q2p(FP-N3-MFG)
+Add component (AddParameter): Name = "Ambient Temperature Range High"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Continuous Drain Current (ID)"; Value = "-100mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Breakdown Voltage"; Value = "-500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Resistance"; Value = "30O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Drain to Source Voltage (Vdss)"; Value = "-500V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Element Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Fall Time"; Value = "25ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gate to Source Voltage (Vgs)"; Value = "20V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Capacitance"; Value = "190pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "5.21mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "740mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "47153691"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "1W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rds On Max"; Value = "30O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise Time"; Value = "25ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Schedule B"; Value = "8541290080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-Off Delay Time"; Value = "45ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn-On Delay Time"; Value = "10ns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Weight"; Value = "453.59237mg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "4.19mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_2 Pin=D1-1
+Added Pin To Net: NetName=NetD3_2 Pin=Q1p-1
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1p-2
+Added Pin To Net: NetName=+12 Pin=Q1p-3
+Added Pin To Net: NetName=+12 Pin=Q2p-1
+Added Pin To Net: NetName=NetJ2_2 Pin=Q2p-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q2p-3
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD1_1

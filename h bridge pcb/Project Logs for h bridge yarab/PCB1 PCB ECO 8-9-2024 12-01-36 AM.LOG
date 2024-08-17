@@ -1,0 +1,165 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D1-1
+Removed Pin From Net: NetName=+12 Pin=D1-2
+Removed Pin From Net: NetName=+12 Pin=D2-2
+Removed Pin From Net: NetName=NetD1_1 Pin=D3-2
+Removed Pin From Net: NetName=NetJ1_2 Pin=Q1n-1
+Removed Pin From Net: NetName=GND Pin=Q1n-2
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1n-3
+Removed Pin From Net: NetName=NetJ2_1 Pin=Q2n-1
+Removed Pin From Net: NetName=GND Pin=Q2n-3
+Change Component Footprint: Designator=Q1p Old Footprint=FP-N3-MFG New Footprint=FP-N3-MFG
+Change Component Footprint: Designator=Q2p Old Footprint=FP-N3-MFG New Footprint=FP-N3-MFG
+Added Component: Designator=D1(FAIR-DO-41-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N/1N4744A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.fairchildsemi.com/dwg/DO/DO41A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. H3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (uA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating and Storage Temperature Range"; Value = "-65 to 200 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial leaded, Body 2.72 x 5.2 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4732A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD (W)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current IZ (mA)"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Max.) (V)"; Value = "4.935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Min.) (V)"; Value = "4.465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ZZ (Max) (ohm)"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=D2(FAIR-DO-41-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N/1N4744A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.fairchildsemi.com/dwg/DO/DO41A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. H3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (uA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating and Storage Temperature Range"; Value = "-65 to 200 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial leaded, Body 2.72 x 5.2 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4732A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD (W)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current IZ (mA)"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Max.) (V)"; Value = "4.935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Min.) (V)"; Value = "4.465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ZZ (Max) (ohm)"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=D3(FAIR-DO-41-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N/1N4744A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.fairchildsemi.com/dwg/DO/DO41A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. H3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (uA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating and Storage Temperature Range"; Value = "-65 to 200 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial leaded, Body 2.72 x 5.2 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4732A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD (W)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current IZ (mA)"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Max.) (V)"; Value = "4.935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Min.) (V)"; Value = "4.465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ZZ (Max) (ohm)"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=D4(FAIR-DO-41-2_V)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/1N/1N4744A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.fairchildsemi.com/dwg/DO/DO41A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. H3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "IR (uA)"; Value = "10"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fairchild Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating and Storage Temperature Range"; Value = "-65 to 200 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Axial leaded, Body 2.72 x 5.2 mm, Lead Spread 25.4 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DO-41-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "1N4732A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD (W)"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "TRUE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Test Current IZ (mA)"; Value = "53"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Max.) (V)"; Value = "4.935"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VZ (Min.) (V)"; Value = "4.465"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ZZ (Max) (ohm)"; Value = "8"; VariantName = "[No Variations]"
+Added Component: Designator=Q1n(ONSC-TO-92-3-29-11)
+Add component (AddParameter): Name = "Channel Polarity"; Value = "N Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BS170-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID Max (A)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BS170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD Max (W)"; Value = "0.35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR)DSS Min (V)"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS Max (V)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) Max (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Component: Designator=Q2n(ONSC-TO-92-3-29-11)
+Add component (AddParameter): Name = "Channel Polarity"; Value = "N Channel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub_link/Collateral/BS170-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.onsemi.cn/pub_link/Collateral/2N6426-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Single"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ID Max (A)"; Value = "0.5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "On Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Type"; Value = "TO-92"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline, Body 4.825 x 3.685 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92-3-29-11_AM_SL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Bulk Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "BS170"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PD Max (W)"; Value = "0.35"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "V(BR)DSS Min (V)"; Value = "60"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS Max (V)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VGS(th) Max (V)"; Value = "3"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=+12 Pin=D1-2
+Added Pin To Net: NetName=+12 Pin=D2-2
+Added Pin To Net: NetName=NetD1_1 Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=NetD1_1 Pin=D4-2
+Added Pin To Net: NetName=NetD1_1 Pin=J3-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1n-1
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1n-2
+Added Pin To Net: NetName=GND Pin=Q1n-3
+Added Pin To Net: NetName=GND Pin=Q2n-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q2n-2
+Added Pin To Net: NetName=NetD1_1 Pin=Q2n-3
+Added Pin To Net: NetName=NetD1_1 Pin=Q2p-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q1p VP2450N3-G
+Added Member To Class: ClassName=Sheet1 Member=Component Q2p VP2450N3-G
